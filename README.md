@@ -6,3 +6,4 @@
 ## OSS
 
 - Astro : [contribute to withastro](https://astro.badg.es/contributor/isVivek99/)
+  [![@isVivek99 Astro contributions](https://astro.badg.es/v2/contributor/isVivek99.svg)](https://astro.badg.es/contributor/isVivek99/)
